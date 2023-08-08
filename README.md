@@ -44,7 +44,7 @@ Steps followed:
 
 Now you can download the file from any machine if you have access the github repository.
 
-#Geometry-calculator
+# Geometry-calculator
 
 In this application, we have two branches for rectangle and circle.
 
